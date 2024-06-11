@@ -1,0 +1,23 @@
+{
+  "name": "myproj_js_backend_2024",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0mbracat/myproj_js_backend_2024.git"
+  },
+  "author": "RusyevD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0mbracat/myproj_js_backend_2024/issues"
+  },
+  "homepage": "https://github.com/s0mbracat/myproj_js_backend_2024#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
